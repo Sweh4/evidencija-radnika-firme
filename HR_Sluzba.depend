@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1610288471 source:c:\users\hp\desktop\vjezba progr\hr_sluzba\kompanija.cpp
+	"Kompanija.h"
+	<iostream>
+
+1610286845 c:\users\hp\desktop\vjezba progr\hr_sluzba\kompanija.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<fstream>
+
+1610286856 source:c:\users\hp\desktop\vjezba progr\hr_sluzba\main.cpp
+	<iostream>
+	"Kompanija.h"
+	"Radnik.h"
+
+1610288522 source:c:\users\hp\desktop\vjezba progr\hr_sluzba\radnik.cpp
+	<iostream>
+	"Kompanija.h"
+	"Radnik.h"
+
+1610288471 c:\users\hp\desktop\vjezba progr\hr_sluzba\radnik.h
+
+1610725830 source:c:\users\hp\desktop\projekat\hr_sluzba\kompanija.cpp
+	"Kompanija.h"
+	<iostream>
+
+1610484343 c:\users\hp\desktop\projekat\hr_sluzba\kompanija.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<fstream>
+
+1610286856 source:c:\users\hp\desktop\projekat\hr_sluzba\main.cpp
+	<iostream>
+	"Kompanija.h"
+	"Radnik.h"
+
+1610491643 c:\users\hp\desktop\projekat\hr_sluzba\radnik.h
+
+1610740798 source:c:\users\hp\desktop\projekat\hr_sluzba\radnik.cpp
+	<iostream>
+	"Kompanija.h"
+	"Radnik.h"
+
