@@ -85,7 +85,7 @@ void Radnik::dodajRadnika(){
 
     int ID_r;
 
-	string ime_r;
+    string ime_r;
     string prezime_r;
     long long JMBG_r;
     int godiste_r;
